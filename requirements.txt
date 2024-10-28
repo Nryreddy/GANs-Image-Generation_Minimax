@@ -1,0 +1,18 @@
+# Core dependencies
+torch==2.4.0
+torchvision==0.15.0
+numpy==1.21.0
+
+# Visualization
+matplotlib==3.4.0
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==6.4.0
+
+# Data processing and utilities
+tqdm==4.62.0  # For progress bars
+pillow==8.3.0  # For image processing
+
+# Optional but recommended for better performance
+cuda-toolkit  # If using GPU
